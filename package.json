@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "weaviate-ts-client": "^1.5.0"
+  },
+  "name": "image-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
