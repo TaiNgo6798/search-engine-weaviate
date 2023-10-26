@@ -1,6 +1,8 @@
 
 ## Installation
 
+Node: 20
+
 ```bash
 docker-compose up -d
 npm i
